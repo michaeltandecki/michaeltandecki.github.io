@@ -1,0 +1,4 @@
+baseURL = 'https://michaeltandecki.github.io/'
+languageCode = 'en-us'
+title = 'Test facility'
+theme = ["github.com/adityatelange/hugo-PaperMod"]
